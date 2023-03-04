@@ -1,2 +1,2 @@
-# Coursea
+# Coursera
 E-learning
